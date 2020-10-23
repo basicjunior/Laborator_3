@@ -13,6 +13,8 @@ public class Main {
         b.add(new Carte("Invitatie la vals", "Mihail Dumes", 1910, 250));
         b.add(new Carte("Invitatie la vals", "Mihail Dumes", 1910, 250));
 
+        b.add(new Carte("Moara cu Noroc","Ion Slavici",1997,230));
+
         b.sort();
         System.out.println(b);
 
